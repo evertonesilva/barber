@@ -198,6 +198,23 @@ i {
     flex-direction: column;
   }
 }
+.services {
+  background-color: #FFF;
+  color: #232224;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 54px 14px;
+}
+
+.services-content h2 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 38px;
+  margin-bottom: 14px;
+}
+
 body {
   font-family: "Sora", sans-serif;
   width: 100%;
