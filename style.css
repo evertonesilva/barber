@@ -163,6 +163,26 @@ i {
     font-size: 24px;
   }
 }
+.about {
+  background-color: #06121e;
+  overflow: hidden;
+  color: #FFF;
+}
+
+.about-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+}
+.about-content img {
+  max-width: 570px;
+}
+
+.about-content div {
+  flex: 1;
+}
+
 body {
   font-family: "Sora", sans-serif;
   width: 100%;
